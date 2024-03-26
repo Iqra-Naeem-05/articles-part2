@@ -1,0 +1,102 @@
+body {
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    font-size: 21px;
+    margin: 0;
+}
+
+/* Header  */
+header {
+    background-color: #252525;
+    color: #fff;
+}
+
+h1 {
+    font-size: 80px;
+    font-weight: lighter;
+    margin-top: 0;  
+}
+
+h1 span {
+    display: block;
+    font-size: 80px;
+    font-weight: 900px;
+    color: #99d930;
+
+}
+
+img{
+    border-radius: 50%;
+    width: 300px;
+}
+/* Section .about-me */
+.about-me {
+    background-color: #FFEAEA;
+}
+
+h2 {
+    font-size: 60px;
+    font-weight: lighter;
+    display: inline-block;
+    border-top: 1px solid #C4C4C4;
+    border-bottom: 1px solid #C4C4C4;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+h2 span {
+    display: block;
+    font-size: 60px;
+    font-weight: 900px;
+    color: #99d930;
+}
+
+.btn{
+    text-decoration: none;
+    background: #99D930;
+    border: none;
+    padding: 6px;
+    color: #252525;
+}
+
+.btn:hover{
+    background: #252525;
+    color: #fff;
+}
+/* Section .articles */
+.articles {
+    background-color: #252525;
+    color: #fff;
+}
+
+h3 {
+    font-size: 36px;
+    margin-bottom: 0;
+}
+
+p {
+    font-size: 16px;
+}
+
+.change{
+    font-weight: 900px;
+    color: #99d930;
+    margin-top: 0;
+}
+
+p a {
+    color: #99D930;
+}
+
+p a:hover {
+    color: #131313
+}
+
+.articles .btn:hover{
+    background: #fff;
+    color: #252525;
+}
+/* more then one */
+.content {
+    padding: 100px 0;
+}
