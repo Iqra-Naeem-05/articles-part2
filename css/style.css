@@ -89,7 +89,7 @@ p a {
 }
 
 p a:hover {
-    color: #131313
+    color: #fff;
 }
 
 .articles .btn:hover{
